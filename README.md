@@ -2,8 +2,8 @@
 
 🔭 Développeur Fullstack / Frontend<br>
 🎓 Diplômé du Wagon (bootcamp de programmation) et de l'EDHEC Business School (BBA)<br>
-🚧 Mon site personnel : [Lien vers le site](https://www.herveng.com) et mon portfolio photo : [Lien vers le site](https://portfolio-photo.herokuapp.com/).<br>
-🌱 J'apprends actuellement React, Node, Three & TypeScript sur des projets personnels<br>
+🚧 Mon dernier projet : [Lien vers le site](https://www.wazaa.app).<br>
+🌱 Je code principalement en React, Node & TypeScript sur des projets personnels<br>
 📄 Pour en savoir plus sur mes expériences, consultez mon profil LinkedIn<br>
 ⚡ Anecdote amusante : J'ai fondé une startup et suis apparu dans plusieurs médias : [Voir le zapping](https://www.youtube.com/watch?v=-O_6E6WuRcw&ab_channel=LaSmoocyclette).<br>
 📫 Comment me contacter : herve.nguetsop@gmail.com<br>
