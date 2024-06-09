@@ -2,7 +2,7 @@
 
 🔭 Développeur Fullstack React/Next Node<br>
 🎓 Diplômé du Wagon (bootcamp de programmation) et de l'EDHEC Business School (BBA)<br>
-🚧 Mon dernier projet : [Lien vers le site](https://www.wazaa.app).<br>
+🚧 Mon dernier projet : [https://www.wazaa.app/](https://www.wazaa.app).<br>
 🌱 Je code principalement en React, Node & TypeScript sur des projets personnels<br>
 📄 Pour en savoir plus sur mes expériences, consultez mon profil LinkedIn<br>
 ⚡ Anecdote amusante : J'ai fondé une startup et suis apparu dans plusieurs médias : [Voir le zapping](https://www.youtube.com/watch?v=-O_6E6WuRcw&ab_channel=LaSmoocyclette).<br>
