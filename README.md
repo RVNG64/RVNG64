@@ -1,6 +1,6 @@
 # Salut, je suis Hervé 👋🏿
 
-🔭 Développeur Fullstack / Frontend<br>
+🔭 Développeur Fullstack React/Next Node<br>
 🎓 Diplômé du Wagon (bootcamp de programmation) et de l'EDHEC Business School (BBA)<br>
 🚧 Mon dernier projet : [Lien vers le site](https://www.wazaa.app).<br>
 🌱 Je code principalement en React, Node & TypeScript sur des projets personnels<br>
